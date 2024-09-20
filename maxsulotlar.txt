@@ -1,0 +1,8 @@
+1.Rezistor ----------- 82KΩ,6.8KΩ,6KΩ,10KΩ,220Ω
+2.Microkontroller----- LM555CM / NE555 / LM555
+3.Ceramic condensator- 5uF
+4.Condensator -------- 1pF X 2,50pF,5pF
+5.Tranzistor --------- MRF947T1
+6.Trimmer ------------ 30pF
+7.Induktor ----------- 2.2nH,1nH
+8.Battery ------------ 9v
